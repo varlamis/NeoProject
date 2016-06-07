@@ -4,7 +4,6 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-
 import java.io.FileInputStream;
 import java.io.InputStream;
 import java.net.URL;
@@ -36,7 +35,7 @@ public class RssFeed {
         this.articles = new ArrayList<Article>();
     }
 
-    public void fetch() {
+    public void fetch(String bodyremoveregex) {
         try {
             DocumentBuilderFactory domFactory = DocumentBuilderFactory.newInstance();
             domFactory.setNamespaceAware(true);
@@ -61,7 +60,14 @@ public class RssFeed {
             for (int i = 0; i < nodesT.getLength(); i++) {
                 String title = nodesT.item(i).getNodeValue();
                 String link = nodesL.item(i).getNodeValue();
-                String date = nodesD.item(i).getNodeValue();
+                String date = "";
+                try {
+                    date = nodesD.item(i).getNodeValue();
+                } catch (NullPointerException ex) {
+                    XPathExpression exprDnew = xpath.compile("//rss/channel/item/publDate/text()");
+                    NodeList nodesDnew = (NodeList) exprDnew.evaluate(doc, XPathConstants.NODESET);
+                    date = nodesDnew.item(i).getNodeValue();
+                }
                 SimpleDateFormat sdf = new SimpleDateFormat(dateFormat, Locale.ROOT);
                 Article f = new Article(title, link, date, sdf);
                 this.articles.add(f);
@@ -70,6 +76,4 @@ public class RssFeed {
             exception.printStackTrace();
         }
     }
-
-
 }

@@ -1,0 +1,1 @@
+java -Xmx1200m -classpath dist\NeoProject.jar  FeedMerger  files/february2014 mergedFiles/february

@@ -17,8 +17,8 @@ public class NonSyndicatedSource extends Source {
     String xpathdate;
     String xpathtitle;
 
-    public NonSyndicatedSource(String url, String xpathnode, String xpathlink, String xpathdate, String xpathtitle, String name, String rssFeed, String encoding, String xpathbody, String dateFormat, String tagsToRemove) {
-        super(name, rssFeed, encoding, xpathbody, dateFormat, tagsToRemove);
+    public NonSyndicatedSource(String javascript, String url, String xpathnode, String xpathlink, String xpathdate, String xpathtitle, String name, String rssFeed, String encoding, String xpathbody, String dateFormat, String tagsToRemove, String bodyremoveregex) {
+        super(javascript, name, rssFeed, encoding, xpathbody, dateFormat, tagsToRemove, bodyremoveregex);
         this.url = url;
         this.xpathnode = xpathnode;
         this.xpathlink = xpathlink;

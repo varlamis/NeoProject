@@ -44,13 +44,13 @@ public class Article implements Comparable {
             System.err.println("Error in date format:\t" + sdf.toPattern() + " for date string:\t" + pubdate);
             this.pubdate = new Date();
             this.pubdate.setYear(cal.get(GregorianCalendar.YEAR) - 1900);
-            this.pubdate.setMonth(cal.get(GregorianCalendar.MONTH) + 1);
+            this.pubdate.setMonth(cal.get(GregorianCalendar.MONTH));
             this.pubdate.setDate(cal.get(GregorianCalendar.DAY_OF_MONTH));
         }
 
     }
 
-    public void fetchBody(Source source) {
+    public void fetchBody(Source source, String bodyremoveregex) {
         try {
             HtmlCleaner cleaner = new HtmlCleaner();
             CleanerProperties props = cleaner.getProperties();
@@ -71,13 +71,17 @@ public class Article implements Comparable {
                 }
                 String html = "<" + t.getName() + ">" + cleaner.getInnerHtml(t) + "</" + t.getName() + ">";
                 html = html.replaceAll("<br />", ". ");
+                html = html.replaceAll("&#xd;", "");
                 t = cleaner.clean(html);
 
-                String b = t.getText().toString().replaceAll("\n", " ");
+                String b = t.getText().toString().replaceAll("\n", " ").replaceAll("\r", "").replaceAll("\\s+", " ");
+                if (bodyremoveregex!=null && bodyremoveregex.length()>0){
+                    b=b.replaceAll(bodyremoveregex, " ");
+                }
                 if (b.length() > maxLength) {
                     maxLength = b.length();
                 }
-                body = b;
+                body = b.trim();
             }
             this.content = body;
 

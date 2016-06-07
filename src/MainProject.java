@@ -134,14 +134,16 @@ public class MainProject extends javax.swing.JFrame {
                 //load a properties file
                 prop.load(new FileInputStream(f));
 
+                String javascript = prop.getProperty("javascript","false");
                 String rssf = prop.getProperty("rss");
                 String encoding = prop.getProperty("charset");
                 String name = prop.getProperty("name");
                 String xpathbody = prop.getProperty("xpathbody");
                 String dateFormat = prop.getProperty("dateFormat");
                 String tagsToRemove = prop.getProperty("tagsToRemove");
+                String bodyremoveregex = prop.getProperty("bodyremoveregex");
                 if (rssf != null) {
-                    Source s = new Source(name, rssf, encoding, xpathbody, dateFormat, tagsToRemove);
+                    Source s = new Source(javascript, name, rssf, encoding, xpathbody, dateFormat, tagsToRemove, bodyremoveregex);
                     sources.add(s);
                 } else {
                     String url = prop.getProperty("url");
@@ -149,7 +151,7 @@ public class MainProject extends javax.swing.JFrame {
                     String xpathlink = prop.getProperty("xpathlink");
                     String xpathdate = prop.getProperty("xpathdate");
                     String xpathtitle = prop.getProperty("xpathtitle");
-                    Source s = new NonSyndicatedSource(url, xpathnode, xpathlink, xpathdate, xpathtitle, name, rssf, encoding, xpathbody, dateFormat, tagsToRemove);
+                    Source s = new NonSyndicatedSource(javascript, url, xpathnode, xpathlink, xpathdate, xpathtitle, name, rssf, encoding, xpathbody, dateFormat, tagsToRemove, bodyremoveregex);
                     sources.add(s);
                 }
             } catch (IOException ex) {

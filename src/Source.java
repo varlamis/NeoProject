@@ -12,7 +12,7 @@ import java.util.HashMap;
  * @author herc
  */
 public class Source {
-
+    public String javascript;
     public String name;
     public String encoding;
     public String rssFeed;
@@ -20,8 +20,10 @@ public class Source {
     public String dateFormat;
     public String[] tagsToRemove;
     public HashMap<String, Date> fetched;
+    public String bodyremoveregex;
 
-    public Source(String name, String rssFeed, String encoding, String xpathbody, String dateFormat, String tagsToRemove) {
+    public Source(String javascript,String name, String rssFeed, String encoding, String xpathbody, String dateFormat, String tagsToRemove, String bodyremoveregex) {
+        this.javascript = javascript;
         this.name = name;
         this.encoding = encoding;
         this.rssFeed = rssFeed;
@@ -29,6 +31,7 @@ public class Source {
         this.dateFormat = dateFormat;
         this.fetched = new HashMap<String, Date>();
         this.tagsToRemove = tagsToRemove.split(",");
+        this.bodyremoveregex = bodyremoveregex;
     }
 
     public String getURL() {

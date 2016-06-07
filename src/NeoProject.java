@@ -4,12 +4,11 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-
-
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FilenameFilter;
 import java.io.IOException;
+import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Properties;
 import java.util.logging.Level;
@@ -34,11 +33,13 @@ public class NeoProject {
 
         ArrayList<Source> sources = new ArrayList<Source>();
         threads = new ArrayList<SourceThread>();
-        if (args[0] != null) {
-            refreshInterval = new Integer(args[0]).intValue();
-        }
-        if (args[1] != null) {
-            minArticles = new Integer(args[1]).intValue();
+        if (args.length != 0) {
+            if (args[0] != null) {
+                refreshInterval = new Integer(args[0]).intValue();
+            }
+            if (args[1] != null) {
+                minArticles = new Integer(args[1]).intValue();
+            }
         }
         File dir = new File("conf");
         File[] files = dir.listFiles(new FilenameFilter() {
@@ -50,16 +51,17 @@ public class NeoProject {
             Properties prop = new Properties();
             try {
                 //load a properties file
-                prop.load(new FileInputStream(f));
-
+                prop.load(new InputStreamReader(new FileInputStream(f),"UTF-8"));
+                String javascript = prop.getProperty("javascript", "false");
                 String rssf = prop.getProperty("rss");
                 String encoding = prop.getProperty("charset");
                 String name = prop.getProperty("name");
                 String xpathbody = prop.getProperty("xpathbody");
                 String dateFormat = prop.getProperty("dateFormat");
                 String tagsToRemove = prop.getProperty("tagsToRemove");
+                String bodyremoveregex = prop.getProperty("bodyremoveregex");
                 if (rssf != null) {
-                    Source s = new Source(name, rssf, encoding, xpathbody, dateFormat, tagsToRemove);
+                    Source s = new Source(javascript, name, rssf, encoding, xpathbody, dateFormat, tagsToRemove, bodyremoveregex);
                     sources.add(s);
                 } else {
                     String url = prop.getProperty("url");
@@ -67,7 +69,7 @@ public class NeoProject {
                     String xpathlink = prop.getProperty("xpathlink");
                     String xpathdate = prop.getProperty("xpathdate");
                     String xpathtitle = prop.getProperty("xpathtitle");
-                    Source s = new NonSyndicatedSource(url, xpathnode, xpathlink, xpathdate, xpathtitle, name, rssf, encoding, xpathbody, dateFormat, tagsToRemove);
+                    Source s = new NonSyndicatedSource(javascript, url, xpathnode, xpathlink, xpathdate, xpathtitle, name, rssf, encoding, xpathbody, dateFormat, tagsToRemove, bodyremoveregex);
                     sources.add(s);
                 }
             } catch (IOException ex) {

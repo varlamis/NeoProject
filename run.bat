@@ -1,0 +1,1 @@
+java -Xmx1200m -jar dist\NeoProject.jar 1200 25 >out.txt

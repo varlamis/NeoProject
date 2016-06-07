@@ -1,0 +1,925 @@
+Shut Down Hook Attached.
+10
+20
+Added 25 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 15 new items from http://www.enet.gr/rss?i=news.el.article
+10
+20
+Added 20 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 8 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 20 new items from http://www.kathimerini.gr/rss
+Added 20 new items from http://www.kathimerini.gr/rss
+Added 20 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 20 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 20 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 20 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 10 new items from http://www.tovima.gr/feed/allnews/
+10
+20
+Added 25 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 5 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 6 new items from http://www.kathimerini.gr/rss
+Added 6 new items from http://www.kathimerini.gr/rss
+Added 2 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 10 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 0 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 8 new items from http://www.tovima.gr/feed/allnews/
+10
+20
+Added 25 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+10
+20
+Added 20 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 20 new items from http://www.kathimerini.gr/rss
+Added 20 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 20 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 0 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 1 new items from http://www.tovima.gr/feed/allnews/
+10
+20
+Added 25 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 7 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 1 new items from http://www.kathimerini.gr/rss
+Added 1 new items from http://www.kathimerini.gr/rss
+Added 1 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 10 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 0 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 5 new items from http://www.tovima.gr/feed/allnews/
+10
+20
+Added 25 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+10
+20
+Added 20 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 2 new items from http://www.kathimerini.gr/rss
+Added 2 new items from http://www.kathimerini.gr/rss
+Added 1 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 1 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 20 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 0 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 2 new items from http://www.tovima.gr/feed/allnews/
+10
+20
+Added 25 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 7 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 1 new items from http://www.kathimerini.gr/rss
+Added 1 new items from http://www.kathimerini.gr/rss
+Added 1 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 5 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 0 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 8 new items from http://www.tovima.gr/feed/allnews/
+Added 0 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+10
+20
+Added 20 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 2 new items from http://www.kathimerini.gr/rss
+Added 2 new items from http://www.kathimerini.gr/rss
+Added 20 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 20 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 15 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 7 new items from http://www.tovima.gr/feed/allnews/
+Added 0 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 1 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 20 new items from http://www.kathimerini.gr/rss
+Added 20 new items from http://www.kathimerini.gr/rss
+Added 2 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 3 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 20 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 5 new items from http://www.tovima.gr/feed/allnews/
+10
+20
+Added 25 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 2 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 1 new items from http://www.kathimerini.gr/rss
+Added 1 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 1 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 7 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 0 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 1 new items from http://www.tovima.gr/feed/allnews/
+Added 0 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 2 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 2 new items from http://www.kathimerini.gr/rss
+Added 2 new items from http://www.kathimerini.gr/rss
+Added 1 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 20 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 0 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 3 new items from http://www.tovima.gr/feed/allnews/
+10
+20
+Added 25 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+10
+20
+Added 20 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 4 new items from http://www.kathimerini.gr/rss
+Added 4 new items from http://www.kathimerini.gr/rss
+Added 1 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 1 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 6 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 0 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 5 new items from http://www.tovima.gr/feed/allnews/
+10
+20
+Added 25 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 3 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 20 new items from http://www.kathimerini.gr/rss
+Added 20 new items from http://www.kathimerini.gr/rss
+Added 2 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 1 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 20 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 0 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 10 new items from http://www.tovima.gr/feed/allnews/
+10
+20
+Added 25 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 5 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 4 new items from http://www.kathimerini.gr/rss
+Added 4 new items from http://www.kathimerini.gr/rss
+Added 20 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 1 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 7 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 0 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 4 new items from http://www.tovima.gr/feed/allnews/
+Added 0 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+10
+20
+Added 20 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 6 new items from http://www.kathimerini.gr/rss
+Added 6 new items from http://www.kathimerini.gr/rss
+Added 1 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 20 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 20 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 0 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 3 new items from http://www.tovima.gr/feed/allnews/
+10
+20
+Added 25 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 15 new items from http://www.enet.gr/rss?i=news.el.article
+10
+20
+Added 20 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 8 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 20 new items from http://www.kathimerini.gr/rss
+Added 20 new items from http://www.kathimerini.gr/rss
+Added 20 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 20 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 20 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 20 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 10 new items from http://www.tovima.gr/feed/allnews/
+10
+20
+Added 25 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 1 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 5 new items from http://www.kathimerini.gr/rss
+Added 5 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 2 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 5 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 17 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 4 new items from http://www.tovima.gr/feed/allnews/
+10
+20
+Added 25 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 2 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 20 new items from http://www.kathimerini.gr/rss
+Added 20 new items from http://www.kathimerini.gr/rss
+Added 2 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 20 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 20 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 2 new items from http://www.tovima.gr/feed/allnews/
+10
+20
+Added 25 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 3 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 1 new items from http://www.kathimerini.gr/rss
+Added 1 new items from http://www.kathimerini.gr/rss
+Added 1 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 13 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 1 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 4 new items from http://www.tovima.gr/feed/allnews/
+10
+20
+Added 25 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+10
+20
+Added 20 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 0 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 20 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 0 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 2 new items from http://www.tovima.gr/feed/allnews/
+10
+20
+Added 25 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 3 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 2 new items from http://www.kathimerini.gr/rss
+Added 2 new items from http://www.kathimerini.gr/rss
+Added 1 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 7 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 0 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 2 new items from http://www.tovima.gr/feed/allnews/
+Added 0 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 4 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 0 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss
+Added 1 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 20 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 0 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 3 new items from http://www.tovima.gr/feed/allnews/
+10
+20
+Added 25 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+10
+20
+Added 20 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 3 new items from http://www.kathimerini.gr/rss
+Added 3 new items from http://www.kathimerini.gr/rss
+Added 20 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 1 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 3 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 0 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 9 new items from http://www.tovima.gr/feed/allnews/
+10
+20
+Added 25 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 2 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 20 new items from http://www.kathimerini.gr/rss
+Added 20 new items from http://www.kathimerini.gr/rss
+Added 1 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 1 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 4 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 0 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 4 new items from http://www.tovima.gr/feed/allnews/
+10
+20
+Added 25 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 0 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 3 new items from http://www.kathimerini.gr/rss
+Added 3 new items from http://www.kathimerini.gr/rss
+Added 2 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 20 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 19 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 1 new items from http://www.tovima.gr/feed/allnews/
+10
+20
+Added 25 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 2 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 1 new items from http://www.kathimerini.gr/rss
+Added 1 new items from http://www.kathimerini.gr/rss
+Added 1 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 3 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 20 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 3 new items from http://www.tovima.gr/feed/allnews/
+Added 0 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 1 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 4 new items from http://www.kathimerini.gr/rss
+Added 4 new items from http://www.kathimerini.gr/rss
+Added 1 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 6 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 0 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 1 new items from http://www.tovima.gr/feed/allnews/
+10
+20
+Added 25 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+10
+20
+Added 20 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 20 new items from http://www.kathimerini.gr/rss
+Added 20 new items from http://www.kathimerini.gr/rss
+Added 20 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 20 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 0 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 1 new items from http://www.tovima.gr/feed/allnews/
+10
+20
+Added 25 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 2 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 1 new items from http://www.kathimerini.gr/rss
+Added 1 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 3 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 0 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 3 new items from http://www.tovima.gr/feed/allnews/
+Added 0 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 1 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 0 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 2 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 0 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 1 new items from http://www.tovima.gr/feed/allnews/
+Added 0 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 1 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 1 new items from http://www.kathimerini.gr/rss
+Added 1 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 20 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 0 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 1 new items from http://www.tovima.gr/feed/allnews/
+10
+20
+Added 25 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 1 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 2 new items from http://www.kathimerini.gr/rss
+Added 2 new items from http://www.kathimerini.gr/rss
+Added 1 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 2 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 0 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 1 new items from http://www.tovima.gr/feed/allnews/
+10
+20
+Added 25 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 15 new items from http://www.enet.gr/rss?i=news.el.article
+10
+20
+Added 20 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 8 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 20 new items from http://www.kathimerini.gr/rss
+Added 20 new items from http://www.kathimerini.gr/rss
+Added 20 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 20 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 20 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 20 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 10 new items from http://www.tovima.gr/feed/allnews/
+10
+20
+Added 25 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 0 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 0 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 0 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 8 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 0 new items from http://www.tovima.gr/feed/allnews/
+Added 0 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 0 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 0 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 1 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 20 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 0 new items from http://www.tovima.gr/feed/allnews/
+Added 0 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 0 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 0 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 0 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 0 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 0 new items from http://www.tovima.gr/feed/allnews/
+10
+20
+Added 25 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 0 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 0 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 1 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 0 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 0 new items from http://www.tovima.gr/feed/allnews/
+10
+20
+Added 25 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 0 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 0 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 1 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 0 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 0 new items from http://www.tovima.gr/feed/allnews/
+Added 0 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 0 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 0 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 1 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 0 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 0 new items from http://www.tovima.gr/feed/allnews/
+Added 0 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 0 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 0 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 2 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 0 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 0 new items from http://www.tovima.gr/feed/allnews/
+10
+20
+Added 25 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 0 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 0 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 20 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 0 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 2 new items from http://www.tovima.gr/feed/allnews/
+10
+20
+Added 25 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 0 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 0 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 0 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 0 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 0 new items from http://www.tovima.gr/feed/allnews/
+10
+20
+Added 25 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 0 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 0 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 1 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 1 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 1 new items from http://www.tovima.gr/feed/allnews/
+10
+20
+Added 25 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 0 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 0 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 0 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 0 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 0 new items from http://www.tovima.gr/feed/allnews/
+10
+20
+Added 25 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 0 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 0 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 1 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 0 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 0 new items from http://www.tovima.gr/feed/allnews/
+10
+20
+Added 25 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 0 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 0 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 0 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 0 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 0 new items from http://www.tovima.gr/feed/allnews/
+Added 0 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 0 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 0 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 0 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 0 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 0 new items from http://www.tovima.gr/feed/allnews/
+10
+20
+Added 25 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 0 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 0 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 0 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 0 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 0 new items from http://www.tovima.gr/feed/allnews/
+10
+20
+Added 25 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 0 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 0 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 0 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 0 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 0 new items from http://www.tovima.gr/feed/allnews/
+10
+20
+Added 25 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 0 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 0 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 1 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 0 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 10 new items from http://www.tovima.gr/feed/allnews/
+10
+20
+Added 25 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 15 new items from http://www.enet.gr/rss?i=news.el.article
+10
+20
+Added 20 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 8 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 20 new items from http://www.kathimerini.gr/rss
+Added 20 new items from http://www.kathimerini.gr/rss
+Added 20 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 20 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 20 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 20 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 10 new items from http://www.tovima.gr/feed/allnews/
+10
+20
+Added 25 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 0 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 3 new items from http://www.kathimerini.gr/rss
+Added 3 new items from http://www.kathimerini.gr/rss
+Added 2 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 1 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 2 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 2 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 1 new items from http://www.tovima.gr/feed/allnews/
+10
+20
+Added 25 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 1 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 5 new items from http://www.kathimerini.gr/rss
+Added 5 new items from http://www.kathimerini.gr/rss
+Added 4 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 7 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 0 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 0 new items from http://www.tovima.gr/feed/allnews/
+10
+20
+Added 25 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 2 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 20 new items from http://www.kathimerini.gr/rss
+Added 20 new items from http://www.kathimerini.gr/rss
+Added 20 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 2 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 20 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 0 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 1 new items from http://www.tovima.gr/feed/allnews/
+Added 0 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 1 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 4 new items from http://www.kathimerini.gr/rss
+Added 4 new items from http://www.kathimerini.gr/rss
+Added 2 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 1 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 8 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 0 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 0 new items from http://www.tovima.gr/feed/allnews/
+Added 0 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 0 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 0 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 0 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 0 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 0 new items from http://www.tovima.gr/feed/allnews/
+10
+20
+Added 25 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 1 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 7 new items from http://www.kathimerini.gr/rss
+Added 7 new items from http://www.kathimerini.gr/rss
+Added 2 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 1 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 20 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 0 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 3 new items from http://www.tovima.gr/feed/allnews/
+Added 0 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+10
+20
+Added 20 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 20 new items from http://www.kathimerini.gr/rss
+Added 20 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 20 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 6 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 0 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 1 new items from http://www.tovima.gr/feed/allnews/
+Added 0 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 0 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 3 new items from http://www.kathimerini.gr/rss
+Added 3 new items from http://www.kathimerini.gr/rss
+Added 1 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 1 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 20 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 0 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 1 new items from http://www.tovima.gr/feed/allnews/
+10
+20
+Added 25 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 3 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 3 new items from http://www.kathimerini.gr/rss
+Added 3 new items from http://www.kathimerini.gr/rss
+Added 20 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 6 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 19 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 5 new items from http://www.tovima.gr/feed/allnews/
+10
+20
+Added 25 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 5 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 20 new items from http://www.kathimerini.gr/rss
+Added 20 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 20 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 20 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 1 new items from http://www.tovima.gr/feed/allnews/
+10
+20
+Added 25 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+10
+20
+Added 20 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 6 new items from http://www.kathimerini.gr/rss
+Added 6 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 1 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 7 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 0 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 3 new items from http://www.tovima.gr/feed/allnews/
+10
+20
+Added 25 new items from http://www.avgi.gr/eidiseis
+Added 0 new items from http://www.avgi.gr/apopseis
+Added 0 new items from http://www.enet.gr/rss?i=news.el.article
+Added 3 new items from http://www.ethnos.gr/summary.asp?catid=28042
+Added 0 new items from http://www.ethnos.gr/entheta.asp?catid=22814
+Added 20 new items from http://www.kathimerini.gr/rss
+Added 20 new items from http://www.kathimerini.gr/rss
+Added 0 new items from http://www.kathimerini.gr/rss?i=news.el.politikh
+Added 1 new items from http://www.kathimerini.gr/rss?i=news.el.ellhnikh-oikonomia
+Added 20 new items from http://www.protothema.gr/rss/news/general/
+Added 0 new items from http://www.rizospastis.gr/wwwengine/rssFeed.do?channel=Top
+Added 0 new items from http://www.tanea.gr/rss.axd?pgid=1
+Added 10 new items from http://www.tovima.gr/feed/allnews/
